@@ -1,5 +1,5 @@
 import React from 'react';
-import FetchSuperhero from './components';
+import FetchSuperhero from './components/FetchSuperhero';
 
 function App() {
 

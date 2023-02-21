@@ -1,1 +1,1 @@
-export { default as Superhero } from './FetchSuperhero'
+export { default as FetchSuperhero } from './FetchSuperhero'
